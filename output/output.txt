@@ -1,0 +1,5 @@
+./out
+Enter m and n: 3 4
+Ackermann(3, 4) = 125
+
+
